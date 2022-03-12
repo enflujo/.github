@@ -12,8 +12,6 @@ Por principio, escribimos código en **español** e intentamos documentarlo rigu
 
 ### :mag: Cómo buscar
 
-La convención con la cual nombramos los repositorios sigue la siguiente estructura: `{enflujo o nombre del colaborador principal}-{nombre del proyecto o aplicación}`.
-
-Por ejemplo: todos los repositorios de proyectos internos del laboratorio se llaman **`enflujo-...`**, y aquellos que hacemos en colaboración con otros se llaman: **`070-...`**, **`colev-...`**, etc.
+La convención con la cual nombramos los repositorios sigue la siguiente estructura: `{enflujo o nombre del colaborador principal}-{nombre del proyecto o aplicación}`. Por ejemplo: todos los repositorios de proyectos internos del laboratorio se llaman **`enflujo-...`**, y aquellos que hacemos en colaboración con otros se llaman: **`070-...`**, **`colev-...`**, etc.
 
 Los proyectos que están en desarrollo los documentamos en: :point_up:[Projects](https://github.com/orgs/enflujo/projects?type=beta)
