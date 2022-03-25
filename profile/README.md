@@ -4,7 +4,7 @@
 
 ### :purple_heart: Código abierto
 
-Acá en Github lo publicamos todo: lo que queremos hacer, lo que estamos haciendo y lo que terminamos. La filosofía transversal es abrir el laboratorio a quienes estén interesados en observar lo que hacemos, pero también abrimos el código para hacer una invitación a participar o apropiarse de lo que hacemos. Cada repositorio tiene su licencia y hacemos lo posible por implementar licencias permisivas.
+Aquí en Github lo publicamos todo: las proyecciones de lo que queremos realizar, los resultados de lo que estamos haciendo y de lo que finalizamos. La filosofía transversal consiste en abrir el laboratorio a las personas interesadas en observar lo que hacemos; pero también en publicar abiertamente el código como una invitación a participar o apropiarse de lo que hacemos. Cada repositorio tiene su licencia y hacemos lo posible por implementar aquellas más permisivas.
 
 ### :fire: ¡Todo en español!
 
